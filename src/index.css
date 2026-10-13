@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* daisyUI via CDN in index.html; Tailwind utilities here */
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+}
